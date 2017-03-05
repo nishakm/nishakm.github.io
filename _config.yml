@@ -1,1 +1,14 @@
-theme: jekyll-theme-minimal
+title: What Nisha Does
+email: nishakumarx@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  I make things. Tasty, pretty, useful things. I don't claim that they 
+  would be those things to everyone, though some people confirm my
+  suspicion that they might...
+
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-theme-minimal
+exclude:
+  - Gemfile
+  - Gemfile.lock
