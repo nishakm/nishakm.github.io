@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   suspicion that they might...
 
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
 gems:
   - jekyll-theme-minimal
 exclude:
