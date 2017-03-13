@@ -1,22 +1,18 @@
 # The main config file for your Jekyll template
 
 # Site settings
-title: Jackal               # used for the html title of every page
+title: What Nisha Does               # used for the html title of every page
 desc: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Nisha makes things
 
-url: http://jackal.com      # put your website hosting url here
+url: http://nishakm.github.io      # put your website hosting url here
 baseurl: ''                 # the subpath of your site, e.g. /blog
 permalink: /:year/:title/   # how should we display posts url
 
 # Meta settings
-email: jackal@gmail.com
-author: The Jackal
-twitter_username: clenemt
-github_username: clenemt
-github_source: jackal
+email: nishakumarx@gmail.com
+author: Nisha K.
+github_username: nishakm
 
 # Put your ga tracking code below
 google_analytics: 'UA-XXXXXXXX-X'
@@ -29,15 +25,18 @@ paginate_path: "/page:num/"  # link scheme for articles, should be letf as is
 # Used to define the navigation menu items
 # > Title is the tile of the navigation item, url the url and desc is the tooltip
 navigation:
-  - title: Projects
-    url: /projects/
-    desc: Stuffs I like to do
-  - title: Work
-    url: /work/
-    desc: Stuffs I hate to do
-  - title: About
+  - title: Engineering
+    url: /engineering/
+    desc: Electronics + Code
+  - title: Craft
+    url: /craft/
+    desc: Crochet and Stuff
+  - title: Food
+    url: /food/
+    desc: Yum!
+  - title: Nisha
     url: /about/
-    desc: Learn about me
+    desc: Nisha who?
 
 # Used by Jekyll to recognize what is a post and what is a page
 defaults:

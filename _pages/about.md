@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About
-subtitle: I am a smart heading.
+title: Nisha K.
+subtitle: I make things...with my hands
 desc: About me.
 permalink: /about/
 ---
 
 <div class="pretty-links">
 
-<div class="lead lead-about">Some intro text that is eye catching and should put you reader at ease and confident in your skills.
+<div class="lead lead-about">I am an engineer and a mom. My engineering side creates things but my mom side mustitasks, negotiates and manages.
 </div>
 
 {::nomarkdown} 
@@ -16,11 +16,8 @@ permalink: /about/
     <img src="{{ site.baseurl }}/assets/img/profile.png">
 </figure>
 {:/}
-
-Neve aethere orbe hic *virginis trunco* in spreto diuque latarumque, mea? Ultima
-sulcum antris conlapsosque potiere curvat Phasias superas adpulit vertex est
-Elei est fumificisque, puniceo? Et dulcis me Argo precibus: haec blanditiae
-[candida](http://murmure.org/.html).
+This website theme came from [Jackal](https://github.com/clenemt/jackal).
+Thank you kind sir!
 
 ---
 
