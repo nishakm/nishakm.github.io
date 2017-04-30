@@ -1,7 +1,7 @@
 # The main config file for your Jekyll template
 
 # Site settings
-title: What Nisha Does               # used for the html title of every page
+title: Nisha Makes Things               # used for the html title of every page
 desc: >
   Nisha makes things
 
@@ -34,7 +34,7 @@ navigation:
   - title: Food
     url: /food/
     desc: Yum!
-  - title: Nisha
+  - title: About Me
     url: /about/
     desc: Nisha who?
 
