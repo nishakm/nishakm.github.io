@@ -25,11 +25,11 @@ Thank you kind sir!
 
 I currently work at VMWare but I reside in Portland OR.
 
-I am in the Open Source Program office where I work on tools to support Open Source work at VMWare. I am currently on tools for Docker container users.
+I work in the Open Source Program Office where I make tools to support Open Source work at VMWare. I am currently working on tools for Docker container users.
 
 
 I used to work at Jaguar Land Rover in Portland OR.
-I did systems engineering. That included:
+My work there included:
 
 - Qt/QML programming for car infotainment
 - Continuous Integration and Continuous Delivery automation
