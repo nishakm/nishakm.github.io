@@ -60,5 +60,5 @@ include:
 exclude:
   - README.md
   - vendor
-gems:
+plugins:
   - jekyll-paginate
