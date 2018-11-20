@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The DC503 Banglet for DefCon26
-permalink: engineering/dc503banglet/
+permalink: things/dc503banglet/
 subtitle: An overview of the DC503 party badge as seen at DefCon 2018
 ---
 

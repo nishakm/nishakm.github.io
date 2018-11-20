@@ -1,7 +1,7 @@
 ---
 layout: page
 title: BlinkyBracelet
-permalink: engineering/blinkybracelet/
+permalink: things/blinkybracelet/
 subtitle: BlinkyBracelet - A bracelet with blinking LED lights
 ---
 

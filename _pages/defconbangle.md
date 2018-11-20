@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blinky Bangle for Defcon 2017
-permalink: engineering/defconbangle/
+permalink: things/defconbangle/
 subtitle: An LED bangle I made over a weekend for a friend who attended DefCon 2017
 ---
 
