@@ -1,9 +1,9 @@
 # The main config file for your Jekyll template
 
 # Site settings
-title: Nisha Makes Things               # used for the html title of every page
+title: Nisha Place on the Internet               # used for the html title of every page
 desc: >
-  Nisha makes things
+  Welcome to Nisha's Internet Hoard!
 
 url: http://nishakm.github.io      # put your website hosting url here
 baseurl: ''                 # the subpath of your site, e.g. /blog
@@ -25,18 +25,18 @@ paginate_path: "/page:num/"  # link scheme for articles, should be letf as is
 # Used to define the navigation menu items
 # > Title is the tile of the navigation item, url the url and desc is the tooltip
 navigation:
-  - title: Engineering
-    url: /engineering/
-    desc: Electronics + Code
-  - title: Craft
-    url: /craft/
-    desc: Crochet and Stuff
-  - title: Food
-    url: /food/
-    desc: Yum!
+  - title: Things
+    url: /things/
+    desc: Blinky Lights and Stuff
+  - title: Code
+    url: /code/
+    desc: Programming and Stuff
+  - title: Overthinking
+    url: /overthinking/
+    desc: Ponderings on State of Affairs
   - title: About Me
     url: /about/
-    desc: Nisha who?
+    desc: Who is Nisha?
 
 # Used by Jekyll to recognize what is a post and what is a page
 defaults:
