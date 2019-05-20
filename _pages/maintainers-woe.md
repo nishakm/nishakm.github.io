@@ -2,7 +2,7 @@
 layout: page
 title: Maintainer's Woe
 permalink: overthinking/maintainers-woe/
-subtitle: A rebuttal to the suffering of Open Source project maintainers
+subtitle: Maintainer's Woe - A rebuttal to the suffering of Open Source project maintainers
 ---
 
 ## Some Background
